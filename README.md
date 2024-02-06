@@ -1,4 +1,4 @@
-# Hossain-Shofiq-University Game Management System
+# University Game Management System
 
 The University Game Management System is a web-based application designed to streamline the management of indoor games. This system allows users to register new students and booking appointment for game.
 
